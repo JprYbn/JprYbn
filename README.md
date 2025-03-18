@@ -46,15 +46,14 @@ Mis objetivos y valores están alineados con los principios clave de la segurida
 
 ## 📚 Formación
 
-- **Certificado Profesional de Ciberseguridad – Google | Coursera**  
+- Certificado Profesional de Ciberseguridad – Google   
   En curso – Formación práctica en fundamentos de seguridad, redes, gestión de riesgos, herramientas de análisis y respuesta a incidentes.
 
 ---
 
 ## 📫 Contacto
-
-- LinkedIn: [Tu URL]  
-- Email: [Tu correo profesional]
+ 
+- Email: jprybn@gmail.com
 
 Gracias por visitar mi perfil. Estoy entusiasmado por seguir creciendo en esta disciplina y contribuir a crear entornos digitales más seguros.
 <!---
